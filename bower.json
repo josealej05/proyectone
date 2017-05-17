@@ -1,0 +1,20 @@
+{
+  "name": "my firts boostrap project",
+  "homepage": "https://github.com/josealej05/proyectone",
+  "authors": [
+    "josealej89 <alej89_is@hotmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
